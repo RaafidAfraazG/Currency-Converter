@@ -58,6 +58,12 @@ Currency-Converter/
 
 ---
 
+## 📸 Screenshots
+
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/1bb41f34-0e4f-4cae-8e5a-d3f064aa9e20" />
+
+---
+
 ## 📌 Notes
 
 - If you see a `404 Not Found` error for the currency API, ensure the URL structure is correct and the currencies exist in the dataset.
